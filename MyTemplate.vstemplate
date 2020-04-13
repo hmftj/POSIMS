@@ -1,0 +1,69 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>POSIMS-TARA-Technologies</Name>
+    <Description>By: HMFTJ --&gt; Point Of Sale &amp; Inventory Management System</Description>
+    <ProjectType>CSharp</ProjectType>
+    <ProjectSubType>
+    </ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>POSIMS-TARA-Technologies</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <Icon>__TemplateIcon.png</Icon>
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="POSIMS-TARA-Technologies.csproj" File="POSIMS-TARA-Technologies.csproj" ReplaceParameters="true">
+      <ProjectItem ReplaceParameters="true" TargetFileName="AboutBox1.cs">AboutBox1.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="AboutBox1.Designer.cs">AboutBox1.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="AboutBox1.resx">AboutBox1.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="App.config">App.config</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form1.cs">Form1.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form1.Designer.cs">Form1.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form1.resx">Form1.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form2.cs">Form2.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form2.Designer.cs">Form2.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form2.resx">Form2.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form3.cs">Form3.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form3.Designer.cs">Form3.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form3.resx">Form3.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form4.cs">Form4.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form4.Designer.cs">Form4.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form4.resx">Form4.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="POSIMSDataSet.xsd">POSIMSDataSet.xsd</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="POSIMSDataSet.Designer.cs">POSIMSDataSet.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="POSIMSDataSet.xsc">POSIMSDataSet.xsc</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="POSIMSDataSet.xss">POSIMSDataSet.xss</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="POSIMSDataSet1.xsd">POSIMSDataSet1.xsd</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="POSIMSDataSet1.Designer.cs">POSIMSDataSet1.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="POSIMSDataSet1.xsc">POSIMSDataSet1.xsc</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="POSIMSDataSet1.xss">POSIMSDataSet1.xss</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="POSIMSDataSet2.xsd">POSIMSDataSet2.xsd</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="POSIMSDataSet2.Designer.cs">POSIMSDataSet2.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="POSIMSDataSet2.xsc">POSIMSDataSet2.xsc</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="POSIMSDataSet2.xss">POSIMSDataSet2.xss</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="POSIMSDataSet3.xsd">POSIMSDataSet3.xsd</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="POSIMSDataSet3.Designer.cs">POSIMSDataSet3.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="POSIMSDataSet3.xsc">POSIMSDataSet3.xsc</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="POSIMSDataSet3.xss">POSIMSDataSet3.xss</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="POSIMSDataSet4.xsd">POSIMSDataSet4.xsd</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="POSIMSDataSet4.Designer.cs">POSIMSDataSet4.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="POSIMSDataSet4.xsc">POSIMSDataSet4.xsc</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="POSIMSDataSet4.xss">POSIMSDataSet4.xss</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="POSIMSDataSet5.xsd">POSIMSDataSet5.xsd</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="POSIMSDataSet5.Designer.cs">POSIMSDataSet5.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="POSIMSDataSet5.xsc">POSIMSDataSet5.xsc</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="POSIMSDataSet5.xss">POSIMSDataSet5.xss</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Program.cs">Program.cs</ProjectItem>
+      <Folder Name="Properties" TargetFolderName="Properties">
+        <ProjectItem ReplaceParameters="true" TargetFileName="AssemblyInfo.cs">AssemblyInfo.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Resources.resx">Resources.resx</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Resources.Designer.cs">Resources.Designer.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Settings.settings">Settings.settings</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Settings.Designer.cs">Settings.Designer.cs</ProjectItem>
+      </Folder>
+      <Folder Name="Resources" TargetFolderName="Resources" />
+    </Project>
+  </TemplateContent>
+</VSTemplate>
